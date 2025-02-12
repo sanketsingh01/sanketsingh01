@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 HI there !<br>I'm...<br>Computer Science student<br>Problem solver and Developer<br>Currently learning Web Development <br>Happy to connect with amazing folks and enrich Network
+👋 HI there !
+I'm...
+* Computer Science student
+* Problem solver and Developer
+* Currently learning Web Development
+* Happy to connect with amazing folks and enrich Network
 
 
 ## 🌐 Socials:
