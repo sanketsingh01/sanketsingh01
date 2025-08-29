@@ -13,32 +13,14 @@ I'm...
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/@Sanket_singh-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-singh-5359732b8) &nbsp;&nbsp; [![X](https://img.shields.io/badge/@SanketS89137690-black.svg?logo=X&logoColor=white)](https://x.com/@SanketS89137690) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/vt118452@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vt118452@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/@Sanket_singh-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-singh-5359732b8) &nbsp;&nbsp; [![X](https://img.shields.io/badge/@SinghSanket78-black.svg?logo=X&logoColor=white)](https://x.com/SinghSanket78) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/vt118452@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vt118452@gmail.com) 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="cenetr"/> Tech Stack:
 <div align=center>
 
-<p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" style="border-radius: 5px" />
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /
-    ></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,nextjs,mongodb,postgres,cpp,python&theme=dark" />
+</p>
 
 </div>
 
