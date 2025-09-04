@@ -20,8 +20,10 @@ I'm...
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,nextjs,mongodb,postgres,cpp,python&theme=dark" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=react,vite,express,postman&theme=dark" />
 </p>
+
 
 </div>
 
