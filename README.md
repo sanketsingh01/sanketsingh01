@@ -21,7 +21,9 @@ I'm...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,nextjs,mongodb,postgres,cpp,python&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,express,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,express,postman,redux,prisma,vercel,ubuntu&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" />
 </p>
 
 
